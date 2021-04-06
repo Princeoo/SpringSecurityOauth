@@ -1,0 +1,2 @@
+# SpringSecurityOauth
+对接forum项目的单点登录模块
